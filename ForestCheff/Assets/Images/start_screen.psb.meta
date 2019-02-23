@@ -1,0 +1,431 @@
+fileFormatVersion: 2
+guid: 847e867d467a8448abad46c6b56892f5
+ScriptedImporter:
+  fileIDToRecycleName:
+    100000: Background_GO/Background_GO
+    100002: Background_GO/Background_GO/ turn off / turn on lentern
+    100004: Background_GO/Background_GO/back ground
+    100006: Background_GO/Background_GO/Background
+    100008: Background_GO/Background_GO/left lentern
+    100010: Background_GO/Background_GO/left mushroom
+    100012: Background_GO/Background_GO/light
+    100014: Background_GO/Background_GO/light copy
+    100016: Background_GO/Background_GO/right mushroom
+    100018: 'Background_GO/Background_GO/start '
+    100020: Background_GO/Background_GO/title
+    400000: Background_GO/Background_GO/Transform
+    400002: Background_GO/Background_GO/ turn off / turn on lentern/Transform
+    400004: Background_GO/Background_GO/back ground/Transform
+    400006: Background_GO/Background_GO/Background/Transform
+    400008: Background_GO/Background_GO/left lentern/Transform
+    400010: Background_GO/Background_GO/left mushroom/Transform
+    400012: Background_GO/Background_GO/light/Transform
+    400014: Background_GO/Background_GO/light copy/Transform
+    400016: Background_GO/Background_GO/right mushroom/Transform
+    400018: Background_GO/Background_GO/start /Transform
+    400020: Background_GO/Background_GO/title/Transform
+    2800002: start_screen
+    21200000: Background_GO/Background_GO/ turn off / turn on lentern/SpriteRenderer
+    21200002: Background_GO/Background_GO/back ground/SpriteRenderer
+    21200004: Background_GO/Background_GO/Background/SpriteRenderer
+    21200006: Background_GO/Background_GO/left lentern/SpriteRenderer
+    21200008: Background_GO/Background_GO/left mushroom/SpriteRenderer
+    21200010: Background_GO/Background_GO/light/SpriteRenderer
+    21200012: Background_GO/Background_GO/light copy/SpriteRenderer
+    21200014: Background_GO/Background_GO/right mushroom/SpriteRenderer
+    21200016: Background_GO/Background_GO/start /SpriteRenderer
+    21200018: Background_GO/Background_GO/title/SpriteRenderer
+    21300000: 'start '
+    21300002: left lentern
+    21300004: left mushroom
+    21300006: right mushroom
+    21300008: light copy
+    21300010: light
+    21300012: ' turn off / turn on lentern'
+    21300014: title
+    21300016: back ground
+    21300018: Background
+    100100000: Background_GO
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: 'start '
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 366
+      y: 1380
+      width: 197
+      height: 64
+    spriteID: 6f42004f49a6e4c35ad9988f9126c499
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -52, y: 1228}
+  - name: left lentern
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 571
+      y: 1380
+      width: 65
+      height: 68
+    spriteID: 20668b47059c14be486bac988216ca1c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 515, y: 1063}
+  - name: left mushroom
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 366
+      y: 1220
+      width: 177
+      height: 152
+    spriteID: 756377c21f89e4cc6ad7905521b194a8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 234, y: 1220}
+  - name: right mushroom
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 551
+      y: 1220
+      width: 161
+      height: 119
+    spriteID: 43bba1c3eeeb84fc4876831eb5c120d3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -153, y: 1220}
+  - name: light copy
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 720
+      y: 1220
+      width: 119
+      height: 119
+    spriteID: 893bc68cc93de406b84e2da2f1759725
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 482, y: 994}
+  - name: light
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 847
+      y: 1220
+      width: 119
+      height: 119
+    spriteID: dd8a827a2cc694931a094438d0773be4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 331, y: 1039}
+  - name: ' turn off / turn on lentern'
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 974
+      y: 1220
+      width: 40
+      height: 74
+    spriteID: abe7dc82b77dc48dc819b8cea9c131bb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 409, y: 994}
+  - name: title
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1220
+      width: 354
+      height: 281
+    spriteID: 5ac4d09d2cbcf4cd88529132555d3143
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -319, y: 932}
+  - name: back ground
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 1000
+      height: 600
+    spriteID: 92c7d2851b6d54debae166d85ccfcd29
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 4}
+  - name: Background
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 612
+      width: 1000
+      height: 600
+    spriteID: 8baf3b156394a4158bd84168b538545a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 612}
+  platformSettings: []
+  mosaicLayers: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  importedTextureWidth: 1024
+  importedTextureHeight: 2048
+  documentSize: {x: 1000, y: 600}
+  textureActualWidth: 1024
+  textureActualHeight: 2048
+  spritePackingTag: 
+  resliceFromLayer: 0
+  characterMode: 1
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: 'start '
+    spriteName: 'start '
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 6f42004f49a6e4c35ad9988f9126c499
+    layerID: 14
+    mosaicPosition: {x: 366, y: 1380}
+  - name: left lentern
+    spriteName: left lentern
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 20668b47059c14be486bac988216ca1c
+    layerID: 7
+    mosaicPosition: {x: 571, y: 1380}
+  - name: left mushroom
+    spriteName: left mushroom
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 756377c21f89e4cc6ad7905521b194a8
+    layerID: 10
+    mosaicPosition: {x: 366, y: 1220}
+  - name: right mushroom
+    spriteName: right mushroom
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 43bba1c3eeeb84fc4876831eb5c120d3
+    layerID: 8
+    mosaicPosition: {x: 551, y: 1220}
+  - name: light copy
+    spriteName: light copy
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 893bc68cc93de406b84e2da2f1759725
+    layerID: 20
+    mosaicPosition: {x: 720, y: 1220}
+  - name: light
+    spriteName: light
+    isGroup: 0
+    parentIndex: -1
+    spriteID: dd8a827a2cc694931a094438d0773be4
+    layerID: 18
+    mosaicPosition: {x: 847, y: 1220}
+  - name: ' turn off / turn on lentern'
+    spriteName: ' turn off / turn on lentern'
+    isGroup: 0
+    parentIndex: -1
+    spriteID: abe7dc82b77dc48dc819b8cea9c131bb
+    layerID: 16
+    mosaicPosition: {x: 974, y: 1220}
+  - name: title
+    spriteName: title
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 5ac4d09d2cbcf4cd88529132555d3143
+    layerID: 12
+    mosaicPosition: {x: 4, y: 1220}
+  - name: back ground
+    spriteName: back ground
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 92c7d2851b6d54debae166d85ccfcd29
+    layerID: 2
+    mosaicPosition: {x: 4, y: 4}
+  - name: Background
+    spriteName: Background
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 8baf3b156394a4158bd84168b538545a
+    layerID: 1
+    mosaicPosition: {x: 4, y: 612}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+  boneGOs: []
+  generateGOHierarchy: 0
